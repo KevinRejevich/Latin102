@@ -1,1 +1,1 @@
-
+Cum Hercules pervenit Oechaliam rogavit ducere lolen in coniugium. Cum suus pater, Eurytus, nolebat Hercules cepit Oechaliam. Hercules dixit interfecturum esse suos. Lolen interfectus est parentes suum patere. Cum interfecerat omnes illorum, misit lolen Deianirae. 
