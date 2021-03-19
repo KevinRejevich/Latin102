@@ -58,7 +58,7 @@ William Faulkner’s novel As I lay dying takes its title from an English transl
 In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle.
 Suggest one or more possible translations of Faulkner’s title into Latin.
 
-'Ut depono moriens'
+'moriens'
 
 C. Translation 
          "Deianira, the wife of Hercules, was not able to cross the large river, to which Evenus was the name,
