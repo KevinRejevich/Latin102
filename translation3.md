@@ -51,4 +51,4 @@ that allows readers to more easily read the passage keeping a better flow of dif
 D. Translation 
    >The stall dung of King Augeas in one day cleaned, the greater part with the helper Jupiter; The entire dung washes away by the river having been let in.
    He prompted the alive bull to Mycenae from the Island Crete with which Pasiphae had sexual intercourse with. He killed King Diomedes of Thrace and the four
-   horses of him with the servant Abderum which were feeding upon human flesh; moreover the names of the horses were Podargus, Lampon, Xanthus, and Dinus.
+   horses of him with the slave Abderum who used to feed upon human flesh; moreover the names of the horses were Podargus, Lampon, Xanthus, and Dinus.
