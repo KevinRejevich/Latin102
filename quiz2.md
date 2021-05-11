@@ -69,10 +69,10 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 
 The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
   >The brothers of Eurytion were violent Centaurs who came to the wedding with his brothers.
-   >>-cuius; Eurytion: masculine, sg.; genitive because it relates to the subject
+   >>-qui; brothers: masculine, sg.; nominative because it relates to the subject
 Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
-  Dexamenus was afraid of Eurytion becuase Deanira was promised in marriage to Euryton.
-    -quod; Deanira: feminine, sg.; nominative becuase it relates to Deanira. 
+  Dexamenus was afraid of Eurytion who was promised in marriage to Euryton.
+    -qui; Deanira: feminine, sg.; nominative becuase it relates to Dexamenus. 
 Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
   Eurytion expected to marry Deianira whose brothers were centuars.
     -quorum; Eurytion: masculine, genitive, sg; it modifies Eurytion in the second sentence which is genitive.
