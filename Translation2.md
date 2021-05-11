@@ -23,8 +23,8 @@ Italicize the verb of each unit by surrounding it with asterisks.
   >>>>>>>>> *exceptum*
   >>>>>>>>>> et id philtrum *esse dixit*.
   >>>>>>>>>> cum *sciret*
-  >>>>>>>>>>> sagittas magnam *habere* vim 
-  >>>>>>>>>>>> felle *tinctas* Hydrae Lernaeae
+  >>>>>>>>>>> sagittas magnam felle *tinctas* Hydrae Lernaeae
+  >>>>>>>>>>>> *habere* vim
   
 
 B. Grammatical questions
@@ -37,7 +37,7 @@ Identify the form of transire. Explain why you placed it in the clause you chose
    
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice).
 Find the dictionary entry for this word in the Lewis-Short’s Latin Dictionary, and give its URN here.
-  Sublatam is a Perfect Passive Participle that is a compound of the verb 'fero, ferre, tuli, latum'; feminine accustive singular perfect passive. THE LINK DID NOT WORK!!!!!!!!!!
+  Sublatam is a Perfect Passive Participle that is a compound of the verb 'fero, ferre, tuli, latum'; feminine accustive singular perfect passive. THE LINK DID NOT WORK!!!!!!!!!! (accusative, feminine, sg., perfect, passive)
   
 Identify the form of sagittis. Why does Hyginus use this case?
   Ablative, plural, ablative of means. Hyginus uses this case as describes the action between Hercules and Nessus concerning the fixation of arrows.
@@ -63,8 +63,8 @@ Suggest one or more possible translations of Faulkner’s title into Latin.
 C. Translation 
          "Deianira, the wife of Hercules, was not able to cross the large river, to which Evenus was the name,
     and she asked the help of Nessus the Centaur who was the son of Iuxoris and Nubis. This Centaur wished
-   to rape Deianira who had been lifted up in the river itself. To this place, Hercules fastened Nessus with
+   to rape Deianira having been lifted up in the river itself. To this place, Hercules fastened Nessus with
    arrows when he might have intervened and when Deinira might have implored the protection of him (Hercules). 
-   That (centaur) dying gave his own blood to Deinira who was saved and that this is the potion when he knew that the large 
-   arrows which were soaked with the poison of the Hydra Lernae to have potency." 
+   That (centaur) dying gave his own blood to Deinira having been saved and he said that this is the potion when he knew that the large 
+   arrows having been soaked with the poison of the Hydra Lernae to have potency." 
   
