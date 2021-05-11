@@ -33,7 +33,7 @@ For the following verbs in various forms, list the four principal parts you woul
 transierat- transeo, transire, transivi, transitus, -a, -um
 afflabat-afflo, afflare, afflavi, afflatus, -a, -um
 moriebatur- morior, morere, -, mortuus sum
-exinteravit- this word does not exist... did you mean exiteravit? exitero, exiterare, exiteravi, exiteratus, -a, -um
+exinteravit- exintero, exinterare, exinteravi, exinteratus, -a, -um
 effugiebat- effugio, effugere, effugi, effugitus, -a, -um 
 adduxit- adduco, adducere, adduxi, adductus, -a, -um
 iaculabantur- iaculor, iaculari, - , iaculatus sum
@@ -50,7 +50,7 @@ Minerva (nominative)- Minerva, Minervae, feminine
 in Phrygia- Phrygia, Phrygiae, feminine 
 ex Creta- Creta, Cretae, feminine 
 Thraciae rex- Thracia, Thraciae, feminine 
-cum Abdero- Abderum, Abderi, neuter
+cum Abdero- Abderis, Abderi, masculine
 Eurystheo regi- Eurystheus, Eurysthei, masculine
 
 Compose a dictionary form for the proper adjectives in the following phrases:
@@ -58,7 +58,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 Leonem Nemeum- Nemeus, Nemea, Nemeum
 Hydram Lernaeam, Lernaeus, Lernaea, Lernaeum
 aprum Erymanthium- Erymanthius, Erymanthia, Erymanthium
-aves Stymphalides- Stymphalides, Stymphalidei, ?
+aves Stymphalides- Stymphalis, Stymphalidis
 Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.) Amazonus, Amazona, Amazonum
 
 Comparative and superlative forms
@@ -70,12 +70,12 @@ a third-declension noun:
 pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
-The Hydra killed passers by with a great blowing of his poisonous breath. >cum magno afflato sui venenati afflatus
-The Hydra killed passers by with a greater blowing of his poisonous breath. >>cum maiore afflato sui venenati afflatus
-The Hydra killed passers by with the greatest blowing of his poisonous breath. >>>cum maximo afflato sui venenati afflatus
-The victims died in great torment. >>>>in magna cruciabilitate
-The victims died in greater torment. >>>>>in maiore cruciabilitate
-The victims died in the greatest torment. >>>>>>in maxima cruciabilitate
+The Hydra killed passers by with a great blowing of his poisonous breath. > magno afflatu sui venenati afflatus
+The Hydra killed passers by with a greater blowing of his poisonous breath. >>cum maiore afflatu sui venenati afflatus
+The Hydra killed passers by with the greatest blowing of his poisonous breath. >>>cum maximo afflatu sui venenati afflatus
+The victims died in great torment. >>>>in magno cruciatu
+The victims died in greater torment. >>>>>in maiore cruciatu
+The victims died in the greatest torment. >>>>>>in maximo cruciatu
 Hercules cleaned a great part of the stables. partem magnam stabulorum
 Hercules cleaned a greater part of the stables. partem maiorem stabulorum
 Hercules cleaned the greatest part of the stables. partem maximam stabulorum
