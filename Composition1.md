@@ -44,4 +44,4 @@ quia
 
 
 
-Cum Hercules pervenisset Oechaliam rogavit ducere lolen in coniugium. Cum suus pater Eurytus nollet Hercules cepit Oechaliam. Hercules dixit se interfecturum esse suos parentes. Iole interfecisse parentes suum passus est. Cum interfecisset omnes illorum, misit lolen Deianirae. 
+Cum Hercules pervenisset Oechaliam rogavit ducere lolen in coniugium. Cum eius pater Eurytus nollet Hercules cepit Oechaliam. Hercules dixit se interfecturum esse eius parentes. Iole Herculem interfecisse parentes suos passa est. Cum interfecisset omnes illorum, misit lolen ad Deianiram. 
