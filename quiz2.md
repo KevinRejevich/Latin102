@@ -75,7 +75,7 @@ Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
     -quod; Deanira: feminine, sg.; nominative becuase it relates to Deanira. 
 Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
   Eurytion expected to marry Deianira whose brothers were centuars.
-    -quorum; Eurytion: masculine, sg; genitive becuase it modifies the Eurytion in the second sentence which is genitive.
+    -quorum; Eurytion: masculine, genitive, sg; it modifies Eurytion in the second sentence which is genitive.
 Nessus tried to rape Deianira. Hercules killed Nessus.
   Nessus tried to rape Deinira because Hercules killed Nessus.
     -quia; Nessus: masculine, sg.; causation describing why Nessus tried to rape Deinira.
