@@ -20,41 +20,26 @@ third plural perfect indicative passive-polliciti sunt They were promised/ -have
 perfect active passive-none
 third plural pluperfect subjunctive passive-polliciti essent 
 
-Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
-1st sg future act indic- locabo; I will place
-2nd sg future act indic- locabis; you will place
-3rd sg future act indic- locabit; he will place
-1st pl future act indic- locabimus; we will place
-2nd pl future act indic- locabitis; You (all) will place
-3rd pl future act indic- locabunt; They will place
+Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio (but not amo, habeo, capio or duco)
+third plural present indicative active- locant; They place
+third plural present subjunctive active- locent
+third plural imperfect indicative active- locabant; They were placing
+present infinitive active- locare; to place
+third plural imperfect subjunctive active- locarent
+third plural perfect indicative active- locavit; They placed
+perfect infinitive passive- locatus, -a, -um esse; to be placed
+third plural pluperfect subjunctive active- locavissent
 
-1st sg future pass indic- locabor; I will be placed
-2nd sg future pass indic- locaberis; you will be placed
-3rd sg future pass indic- locabitur; he will be placed
-1st pl future pass indic- locabimus; we will be placed
-2nd pl future pass indic- locabitis; You (all) will be placed
-3rd pl future pass indic- locabunt; They will be placed
-Infintives (Present)	locare (active)	locari (passive)
-           (Perfect)  locavisse (active)	locatum esse (passive)
-           (Future)	  locaturum esse (active)	locatum iri (passive)
 
-1st sg future act indic- recipiam; I will recieve
-2nd sg future act indic- recipies; you will recieve
-3rd sg future act indic- recipiet; he will recieve 
-1st pl future act indic- recipiemus; we will recieve
-2nd pl future act indic- recipietis; You (all) will recieve 
-3rd pl future act indic- recipiunt; They will recieve
+third plural present indicative passive- recipiuntur; They are being taken back
+third plural present subjunctive passive- recipiantur
+third plural imperfect indicative passive- recipiebantur; They were being taken back
+present infinitive passive- recipere; to take back
+third plural imperfect subjunctive passive- reciperentur
+third plural perfect indicative passive- recepti sunt; They  have been taken back
+perfect active passive- receptus, -a, -um esse
+third plural pluperfect subjunctive passive- recepti essent
 
-1st sg future pass indic- recipiar; I will be recieved
-2nd sg future pass indic- recipies; you will be recieved
-3rd sg future pass indic- recipiet; he will be recieved
-1st pl future pass indic- recipiemus; we will be recieved
-2nd pl future pass indic- recipietis; You (all) will be recieved
-3rd pl future pass indic- recipiunt; They will be recieved
-Infintives (Present)	recipere (active)	recipi (passive)
-           (Perfect)  recepisse (active) receptum esse (passive)
-           (Future)	recepturum esse (active)	receptum iri (passive)
-but not amo, habeo, capio or duco
 
 English relative clauses
 You are given a pair of simple English sentences (that is, a single independent clause) with a noun in common. Combine them into one complex sentence by keeping the first sentence as the independent clause, and making the second sentence a relative clause.
@@ -80,8 +65,8 @@ Nessus tried to rape Deianira. Hercules killed Nessus.
   Nessus whom Hercules killed tried to rape Deinira.
     -quem; Nessus: masculine, sg.; it is accusative because it modifies the direct object.
 Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-  Nessus gave Deianira a vial of blood by which Hercules was poisoned.
-    -quo; blood: masculine, sg.; ablative becuase it modifies the blood which is the ablative of agent.
+  Nessus gave Deianira a vial of blood that Hercules was poisoned by (the blood).
+    -quem; vial: masculine, sg.; accusative becuase it modifies the vial which is the direct object.
 In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
   In Egypt,Hercules killed the priest Busiris who regularly sacrificed foreigners.
     quem; Busiris: masculine, sg; accusative becuase it is modifying the direct object.
@@ -89,14 +74,14 @@ Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with 
   Prometheus' heart was devoured by an eagle which Hercules shot dead with his arrows
  qua; eagle: feminine, sg; ablative becuase it is modifying the ablative of agent.
 Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
-  Lycus tried to kill Megara and her sons Therimachus and Ophites who was killed by Hercules.
+  Lycus who was killed by Hercules tried to kill Megara and her sons Therimachus and Ophites.
   qui; Lycus: masculine, sg; nominative becuase it is modifying the subject of the sentence.
 Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
- Hercules stole a tripod from the temple at Delphi because Apollo refused to give Hercules an oracle
- quod; Hercules: masculine, sg, nominative.; causation describing why Hercules stole the tripod who is the subject.
+ Apollo refused to give Hercules an oracle who stole a tripod from the temple at Delphi.
+ quem; Hercules: masculine, sg, accusative.; accusative becuase it refers back to Hercules who is the direct object.
 Hercules killed his own wife Megara. Juno drove/threw Hercules into a fit of madness.
-  Hercules killed his own wife Megara because Juno drove Hercules into a fit of madness
-  quod; Hercules: masculine, sg.; causation describing why Hercules killed his own wife who is the subject.
+   Juno drove Hercules who killed his own wife Megara into a fit of madness.
+  quem; Hercules: masculine, sg.; quem refers back to Hercules who is the direct object of the sentence.
   
 Latin relative clauses
 For each sentence in the previous section:
